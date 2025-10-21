@@ -64,7 +64,7 @@ Below is the Entity-Relationship Diagram (ERD) of the database:
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/tu-usuario/eventify-api.git
+   git clone https://github.com/ruggieroDaniela/eventify-api.git
    cd eventify-api
    ```
 
