@@ -15,7 +15,7 @@ Eventify API is the backend that powers the Eventify mobile platform, designed f
 - **Zod**: Library for schema validation.
 - **Faker.js**: Library for generating realistic test data.
 
-## Estructura del Proyecto
+## Project Structure
 
 ```
 api/
